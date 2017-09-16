@@ -56,7 +56,6 @@ button.navbar-toggle {
 
 
 .bgimg-1 {
-  background-image: url('img/header.jpg');
   min-height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -122,7 +121,6 @@ font-weight: bold;
 
 
 .bgimg-2{
-  background-image: url('images/background_1.jpg');
   min-height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -284,7 +282,6 @@ button a:active {
 
 
 .bgimg-3 {
-  background-image: url('images/background_2.jpg');
   min-height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -332,7 +329,6 @@ button a:active {
 
 
 .bgimg-4 {
-  background-image: url('images/background_3.jpg');
   min-height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
