@@ -33,7 +33,7 @@ $(window).scroll(function() {
   if (height > 200) {
     $(".switch-text").hover(
       function() {
-        $(this).css("color", "#000");
+        $(this).css("color", "#acbfc8");
       },
       function() {
         $(this).css("color", "#9d9d9d");
@@ -42,7 +42,7 @@ $(window).scroll(function() {
   } else {
     $(".switch-text").hover(
       function() {
-        $(this).css("color", "#FFF");
+        $(this).css("color", "#fff");
       },
       function() {
         $(this).css("color", "#9d9d9d");
