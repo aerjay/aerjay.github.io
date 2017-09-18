@@ -42,7 +42,7 @@ ul.dropdown-menu {
 
 
 button.navbar-toggle {
-    float: right;
+  float: right;
 }
 
 
@@ -95,16 +95,6 @@ font-weight: bold;
   letter-spacing: 0px;
   text-align: center;
 }
-.quote {
-  font: 195% 'Oswald', sans-serif;
-  color: #404040;
-  letter-spacing: 1px;
-  padding-top: 20px;
-  padding-bottom: 20%;
-
-}
-
-
 
 .columns {
   font: 85% 'Montserrat', sans-serif;
@@ -157,7 +147,6 @@ font-weight: bold;
   transition: .5s ease;
   height: auto;
   display: block;
-  
 }
 
 
@@ -251,8 +240,6 @@ font-weight: bold;
   min-width: 20%;
 }
 
-
-
 .contact-header {
   font: 14px "Doris", sans-serif;
   padding-top: 20px;
@@ -269,7 +256,6 @@ font-weight: bold;
   padding-bottom: 20%;
 
 }
-
 
 .bgimg-4 {
   min-height: 100px;
@@ -307,6 +293,9 @@ a {
 }
 [title="Sugar"]:hover{
   color: rgb(251,182,209);
+}
+[title="Email"]:hover{
+  color: rgb(145,210,144);
 }
 [center]{
   text-align: center;
