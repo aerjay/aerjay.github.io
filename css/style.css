@@ -222,11 +222,11 @@ font-weight: bold;
 }
 
 .contact {
-  padding-top: 4%;
-	  padding-bottom: 0%;
-  font: 20px "Roboto Condensed", sans-serif;
-  letter-spacing: 15px;
-  text-align: center;
+ padding-top: 10%;
+ padding-bottom: 0%;
+ font: 20px "Roboto Condensed", sans-serif;
+ letter-spacing: 15px;
+ text-align: center;
  font-weight: bold; 
 }
 
@@ -258,7 +258,7 @@ font-weight: bold;
 }
 
 .bgimg-4 {
-  min-height: 100px;
+  min-height: 50px;
   background-size:cover;
   background-repeat: no-repeat;
   background-attachment:fixed;
