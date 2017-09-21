@@ -221,8 +221,8 @@ font-weight: bold;
   opacity: 0.5;
 }
 
-.contact {
- padding-top: 10%;
+.contactH {
+ padding-top: 5%;
  padding-bottom: 0%;
  font: 20px "Roboto Condensed", sans-serif;
  letter-spacing: 15px;
@@ -238,13 +238,6 @@ font-weight: bold;
   margin-top: 10px;
   margin-bottom: 10px;
   min-width: 20%;
-}
-
-.contact-header {
-  font: 14px "Doris", sans-serif;
-  padding-top: 20px;
-  letter-spacing: 7px;
-  
 }
 
 .contact-feature {
@@ -279,19 +272,19 @@ a {
 [title="Resume"]:hover{
   color: rgb(178,36,52);
 }
-[title="Fast-Pass"]:hover{
+[title="Fast-Pass Website"]:hover{
   color: rgba(209,205,1,1.00);
 }
-[title="Coffee"]:hover{
+[title="Local Coffee Shop Repo"]:hover{
   color: rgb(253,202,162);
 }
-[title="Noto"]:hover{
+[title="Noto Demo Videos"]:hover{
   color: rgb(154,206,223);
 }
-[title="Uvida"]:hover{
+[title="Uvida Repo"]:hover{
   color: rgb(117,137,191);
 }
-[title="Sugar"]:hover{
+[title="Sugar Rush Demo Video"]:hover{
   color: rgb(251,182,209);
 }
 [title="Email"]:hover{
