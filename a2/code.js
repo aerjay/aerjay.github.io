@@ -1,9 +1,11 @@
 //
 // this is just a stub for a function you need to implement
 //
+
 function getStats(txt) {
+    txt = txt.toLowerCase();
     return {
-        nChars: 123,
+        nChars: txt.length,
         nWords: 22,
         nLines: 10,
         nNonEmptyLines: 22,
