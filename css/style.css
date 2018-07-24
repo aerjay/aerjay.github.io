@@ -150,7 +150,7 @@ html {
   opacity: 0.5;
 }
 
-a {
+a{
   color: #000;
   text-decoration: none;
   transition: all .5s ease-in-out;
@@ -161,8 +161,18 @@ a {
   text-decoration: none;
 }
 
+[title="GitHub"]:not(:hover) {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
 [title="LinkedIn"]:hover {
   color: rgb(0, 119, 181);
+  text-decoration: none;
+}
+
+[title="LinkedIn"]:not(:hover) {
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
