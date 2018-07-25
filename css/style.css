@@ -142,14 +142,6 @@ html {
   min-width: 20%;
 }
 
-.bgimg-4 {
-  min-height: 25px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  opacity: 0.5;
-}
-
 a{
   color: #000;
   text-decoration: none;
